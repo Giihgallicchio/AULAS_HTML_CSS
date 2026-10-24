@@ -1,21 +1,32 @@
-# PROJETO - HTML E CSS
+# PROJETO — HTML & CSS
 
-## Tema do Projeto
-<h1>Atividades e Estudos de HTML e CSS - Gustavo Guanabara</h1>
+## 📌 Tema do Projeto
+### Atividades e Estudos de HTML e CSS — Gustavo Guanabara
 
-## Autora
-- Giovanna Galichio
+---
 
-## Descrição do Projeto
+## 📝 Descrição do Projeto
 
-<p>Este repositório reúne atividades, exercícios e conteúdos desenvolvidos durante os estudos de HTML e CSS, com base nas aulas e materiais do professor Gustavo Guanabara.</p>
+Este repositório reúne atividades, desafios e conteúdos práticos desenvolvidos durante os meus estudos de desenvolvimento web front-end, focados nas tecnologias fundamentais: **HTML5** e **CSS3**.
 
-<p>O projeto registra a evolução dos conhecimentos em desenvolvimento web, reunindo códigos e exercícios relacionados à criação e estilização de páginas.</p>
+O projeto funciona como um diário de bordo digital para registrar minha evolução técnica, reunindo códigos, boas práticas de semântica e estilizações visuais criadas do zero.
 
-## Organização do Repositório
+---
 
-<p>Os arquivos estão organizados de acordo com as atividades e exercícios realizados ao longo dos estudos, facilitando a localização e consulta dos conteúdos.</p>
+## 🛠️ Conceitos Praticados
 
-## Referência
+* **Marcação Semântica:** Estruturação correta e acessível de páginas utilizando as tags modernas do HTML5.
+* **Estilização Avançada:** Domínio de cores, tipografia, espaçamentos, bordas e alinhamentos através do CSS3.
+* **Desafios Práticos:** Resolução de projetos reais propostos para testar a lógica de layout e o posicionamento de elementos na tela.
 
-<p>Os estudos e exercícios deste repositório têm como referência as aulas de HTML e CSS do professor Gustavo Guanabara.</p>
+---
+
+## 📁 Organização do Repositório
+
+Os arquivos e pastas estão categorizados e estruturados conforme os módulos e exercícios práticos realizados ao longo do aprendizado, facilitando a localização rápida e a revisão de qualquer linha de código.
+
+---
+
+## 🎓 Referência
+
+Todo o progresso documentado neste repositório foi construído com base nas excelentes aulas, desafios e materiais didáticos gratuitos disponibilizados pelo professor **Gustavo Guanabara** no projeto **Curso em Vídeo**.
